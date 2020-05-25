@@ -12,9 +12,7 @@ The project presentation can be found [here](./project_presentation.pdf).
 
 ---
 
-[Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182)
-
-This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper linked to above.
+This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper [Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182).
 
 The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](https://sites.google.com/site/projectbci/), Brain Computer Interface research at NUST Pakistan.
 
